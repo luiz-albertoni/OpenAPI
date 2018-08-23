@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "/Users/luiz.albertoni/Code/tmp/OpenAPI/swagger.yaml",
+    "name": "Quality Service",
+    "repo": "luiz-albertoni/OpenAPI",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
